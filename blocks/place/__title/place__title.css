@@ -15,12 +15,22 @@
 @media screen and (min-width: 420px) {
     .place__title { 
         font-size: 42px;
-        line-height: 46px;
-       
+        line-height: 46px;  
         
     }
 
 }
+
+@media screen and (min-width: 750px) {
+    .place__title { 
+        font-size: 48px;
+        line-height: 52px;
+        padding: 0;
+        
+    }
+
+}
+
 
 @media screen and (min-width: 900px) {
     .place__title { 
