@@ -1,9 +1,16 @@
 .place__website {
-    max-width: 100%; 
+    margin: 0;
+    padding: 0 16px;
+    max-width: 100%;
     grid-area: website;
     align-self: end;
-    padding: 0 16px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .place__website { 
+        padding: 0;
+        
+    }
 
 }
-
-
+  

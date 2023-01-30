@@ -5,26 +5,25 @@
     line-height: 28px;
     color: #fff;
     text-decoration: none;
-}
-
-.header__lang-link:last-of-type {
+  }
+  
+  .header__lang-link:last-of-type {
     margin-right: 0;
-}
-
-.header__lang-link:hover {
+  }
+  
+  .header__lang-link:hover {
     text-decoration: underline;
-
-}
-
-@media all and (max-width: 420px) {
+  }
+  
+  @media all and (max-width: 420px) {
     .header__lang-link {
-        font-size: 18px;
-        line-height: 20px;
-        margin-right: 16px;
+      font-size: 18px;
+      line-height: 20px;
+      margin-right: 16px;
     }
-
+  
     .header__lang-link:last-of-type {
-        margin-right: 0;
+      margin-right: 0;
     }
-
-}
+  }
+  

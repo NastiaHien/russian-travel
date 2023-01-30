@@ -2,15 +2,13 @@
     width: 100%;
     object-fit: cover;
     height: 100%;
-}
-
-
-
-@media screen and (max-width: 768px) {
-    .lead__image_img { 
-        width: 100%;
-        object-fit: cover;
-        padding: 0;
-        
+  }
+  
+  @media screen and (max-width: 768px) {
+    .lead__image_img {
+      width: 100%;
+      object-fit: cover;
+      padding: 0;
     }
-}
+  }
+  

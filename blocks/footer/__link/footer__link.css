@@ -1,5 +1,4 @@
 .footer__link {
-    list-style-type: none;
     margin: 0;
     padding: 0;
     font-size: 16px;
@@ -7,28 +6,24 @@
     line-height: 18px;
     color: #fff;
     text-decoration: none;
-}
-
-
-
-@media all and (min-width: 300px) {
+  }
+  
+  @media all and (min-width: 300px) {
     .footer__link {
-        margin-right: 0;
-        margin-bottom: 32px;
-        font-size: 24px;
-        line-height: 24px;
+      margin-right: 0;
+      margin-bottom: 32px;
+      font-size: 24px;
+      line-height: 24px;
     }
-
-}
-
-
-@media screen and (min-width: 760px) {
+  }
+  
+  @media screen and (min-width: 760px) {
     .footer__link {
-        flex-direction: row;
-        font-size: 16px;
-        line-height: 18px;
-        margin-bottom: 0;
-        margin-right: 18px;
+      flex-direction: row;
+      font-size: 16px;
+      line-height: 18px;
+      margin-bottom: 0;
+      margin-right: 18px;
     }
-
-}
+  }
+  

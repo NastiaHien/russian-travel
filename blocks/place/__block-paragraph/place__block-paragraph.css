@@ -7,18 +7,11 @@
     color: #fff;
     grid-area: paragraph;
     align-items: start;
-    
-}
-
-
-
-@media screen and (min-width: 750px) {
-    .place__block-paragraph { 
-
-       padding: 0;   
+  }
+  
+  @media screen and (min-width: 750px) {
+    .place__block-paragraph {
+      padding: 0;
     }
-
-}
-
-
-
+  }
+  

@@ -5,22 +5,18 @@
     font-size: 18px;
     font-weight: 400px;
     line-height: 30px;
-    
-}
-
-
-@media screen and (max-width: 768px) {
+  }
+  
+  @media screen and (max-width: 768px) {
     .place__paragraph {
-        font-size: 16px;
-        font-weight: 400px;
-        line-height: 26px;
-        padding-bottom: 25px;
+      font-size: 16px;
+      font-weight: 400px;
+      line-height: 26px;
+      padding-bottom: 25px;
     }
-}
-
-
-.place__paragraph:last-of-type {
+  }
+  
+  .place__paragraph:last-of-type {
     padding-bottom: 0;
-}
-
-
+  }
+  
