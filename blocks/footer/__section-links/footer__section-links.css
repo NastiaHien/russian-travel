@@ -1,4 +1,4 @@
-.section__link {
+.footer__section-links {
     margin: 0;
     padding: 0;
     display: flex;
@@ -9,12 +9,12 @@
   }
   
   @media screen and (min-width: 760px) {
-    .section__link {
+    .footer__section-links {
       flex-direction: row;
       margin-right: 18px;
     }
   
-    .section__link:last-of-type {
+    .footer__section-links:last-of-type {
       margin-right: 0;
     }
   }
