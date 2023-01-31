@@ -4,9 +4,9 @@
     margin-right: auto;
   }
   
-  @media all and (min-width: 320px) {
+  @media all and (max-width: 420px) {
     .header__logo {
-      width: 142px;
+      max-width: 142px;
       min-height: 42px;
     }
   }

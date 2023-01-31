@@ -4,9 +4,8 @@
     display: flex;
     justify-content: end;
     align-items: end;
-    min-height: 52px;
     padding: 0 48px;
-    padding-top: 28px;
+    margin-top: 28px;
   }
   
   @media screen and (max-width: 768px) {
@@ -15,8 +14,9 @@
     }
   }
   
-  @media screen and (max-width: 440px) {
+  @media screen and (max-width: 420px) {
     .header {
+      margin-top: 16px;
       padding: 0 16px;
     }
   }

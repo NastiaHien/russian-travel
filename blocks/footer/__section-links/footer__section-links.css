@@ -7,15 +7,18 @@
     justify-content: flex-start;
     list-style: none;
   }
+
+  .footer__section-links:last-of-type {
+    margin-right: 0; 
+  }
+
   
   @media screen and (min-width: 760px) {
     .footer__section-links {
       flex-direction: row;
       margin-right: 18px;
     }
-  
-    .footer__section-links:last-of-type {
-      margin-right: 0;
-    }
   }
+  
+    
   
