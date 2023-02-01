@@ -8,12 +8,8 @@
   transition: opacity 0.2s ease-out;
 }
 
-.header__lang-link_active:hover {
+.header__lang-link:hover {
   opacity: 0.8;
-}
-
-.header__lang-link_active:focus {
-  text-decoration: underline;
 }
 
 @media all and (max-width: 420px) {

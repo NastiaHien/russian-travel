@@ -15,11 +15,10 @@
 @media screen and (min-width: 1024px) {
   .lead__figure {
     max-width: 928px;
-    margin-top: 56px;
   }
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 1200px) {
   .lead__figure {
     max-width: 984px;
     margin-top: 64px;
