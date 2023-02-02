@@ -8,6 +8,7 @@
   line-height: 76px;
   color: #fff;
   text-align: center;
+  position: relative;
 }
 
 @media screen and (max-width: 660px) {
