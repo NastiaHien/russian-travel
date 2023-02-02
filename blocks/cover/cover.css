@@ -6,12 +6,9 @@
   margin-top: 92px;
   max-width: 1184px;
   min-height: 740px;
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
   position: relative;
-  align-items: center;
   background-size: cover;
+  background-position: center;
 }
 
 .cover::before {
